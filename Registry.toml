@@ -1,8 +1,8 @@
-name = "Registry"
+name = "BioJuliaRegistry"
 uuid = "ccbd2cc2-2954-11e9-1ccf-f3e7900901ca"
-repo = "https://github.com/BioJulia/Registry.git"
+repo = "https://github.com/BioJulia/BioJuliaRegistry.git"
 
 description = "The BioJulia package registry."
 
 [packages]
-"3372ea36-2a1a-11e9-3eb7-996970b6ffbd" = {name = "FormatSpecimens", path = "FormatSpecimens"}
+3372ea36-2a1a-11e9-3eb7-996970b6ffbd = {name = "FormatSpecimens", path = "FormatSpecimens"}
