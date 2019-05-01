@@ -2,8 +2,10 @@ name = "BioJuliaRegistry"
 uuid = "ccbd2cc2-2954-11e9-1ccf-f3e7900901ca"
 repo = "https://github.com/BioJulia/BioJuliaRegistry.git"
 
-description = "The BioJulia package registry."
+description = """
+The BioJulia package registry."""
 
 [packages]
-3372ea36-2a1a-11e9-3eb7-996970b6ffbd = {name = "FormatSpecimens", path = "FormatSpecimens"}
-47718e42-2ac5-11e9-14af-e5595289c2ea = {name = "BioGenerics", path = "BioGenerics"}
+3372ea36-2a1a-11e9-3eb7-996970b6ffbd = { name = "FormatSpecimens", path = "FormatSpecimens" }
+47718e42-2ac5-11e9-14af-e5595289c2ea = { name = "BioGenerics", path = "BioGenerics" }
+5fa9f68e-f4b0-11e8-18b8-fb82dd3c6483 = { name = "Pseudoseq", path = "P/Pseudoseq" }
