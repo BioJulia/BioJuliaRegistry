@@ -6,3 +6,4 @@ description = """
 The official curated BioJulia registry for Biology related julia packages."""
 
 [packages]
+5fa9f68e-f4b0-11e8-18b8-fb82dd3c6483 = { name = "Pseudoseq", path = "P/Pseudoseq" }
