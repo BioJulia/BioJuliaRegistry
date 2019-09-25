@@ -1,0 +1,4 @@
+[0]
+BioSequences = "2"
+DataFrames = "0.19"
+julia = "1"
