@@ -1,9 +1,7 @@
 name = "BioJuliaRegistry"
 uuid = "ccbd2cc2-2954-11e9-1ccf-f3e7900901ca"
 repo = "https://github.com/BioJulia/BioJuliaRegistry.git"
-
-description = """
-The official curated BioJulia registry for Biology related julia packages."""
+description = "The official curated BioJulia registry for Biology related julia packages."
 
 [packages]
 3372ea36-2a1a-11e9-3eb7-996970b6ffbd = { name = "FormatSpecimens", path = "F/FormatSpecimens" }
@@ -12,3 +10,7 @@ The official curated BioJulia registry for Biology related julia packages."""
 47718e42-2ac5-11e9-14af-e5595289c2ea = { name = "BioGenerics", path = "B/BioGenerics" }
 5fa9f68e-f4b0-11e8-18b8-fb82dd3c6483 = { name = "Pseudoseq", path = "P/Pseudoseq" }
 bed85cf4-5cc8-5ac4-9eb3-09fbf92b2ce2 = { name = "MicrobiomePlots", path = "M/MicrobiomePlots" }
+70a005b8-9d8a-11e9-0d98-c909fa2e52d2 = { name = "ReadDatastores", path = "R/ReadDatastores" }
+7e6ae17a-c86d-528c-b3b9-7f778a29fe59 = { name = "BioSequences", path = "B/BioSequences" }
+c2308a5c-f048-11e8-3e8a-31650f418d12 = { name = "FASTX", path = "F/FASTX" }
+fa5322f5-bd84-5069-834a-abf3230fb8f8 = { name = "BiobakeryUtils", path = "B/BiobakeryUtils" }
