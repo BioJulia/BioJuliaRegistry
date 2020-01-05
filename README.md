@@ -31,5 +31,5 @@ through this registry**.
 **You are still responsible for reviewing your own code dependencies, and their
 licenses/terms**.
 
-After all BioJulia is still an open-source project, run by academics that
+After all, BioJulia is still an open-source project, run by academics that
 volunteer in their free time.
