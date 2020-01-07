@@ -1,7 +1,7 @@
 name = "BioJuliaRegistry"
 uuid = "ccbd2cc2-2954-11e9-1ccf-f3e7900901ca"
 repo = "https://github.com/BioJulia/BioJuliaRegistry.git"
-description = "The official curated BioJulia registry for Biology related julia packages."
+description = "The BioJulia registry for Computational Biology related julia packages."
 
 [packages]
 3372ea36-2a1a-11e9-3eb7-996970b6ffbd = { name = "FormatSpecimens", path = "F/FormatSpecimens" }
