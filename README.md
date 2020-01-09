@@ -30,9 +30,9 @@ registry add https://github.com/BioJulia/BioJuliaRegistry.git
 After you've added the registry, you can install BioJulia packages just as you
 would any other.
 
-These instructions are included in the README and manuals for each package
-released through this registry, and is also described in the getting started
-section of our [website](https://biojulia.net/getting-started/).
+These instructions are included in the README and manuals for each BioJulia
+package released through this registry, and is also described in the getting
+started section of the [BioJulia website](https://biojulia.net/getting-started/).
 
 
 ## Registering a package in the BioJulia registry
