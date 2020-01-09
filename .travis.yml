@@ -10,8 +10,8 @@ julia:
 matrix:
   allow_failures:
     - julia: nightly
-before_script: julia --project=.ci/ -e 'using Pkg; Registry.add(Registry.RegistrySpec(url = "https://github.com/JuliaRegistries/General.git")); Registry.add(Registry.RegistrySpec(url = "https://github.com/BioJulia/BioJuliaRegistry.git")); Pkg.instantiate()'
-script: julia --project=.ci/ --color=yes -e 'import RegistryCI; RegistryCI.test()'
+before_script: julia --project=.ci/ -e 'using Pkg; Pkg.instantiate()'
+script: julia --project=.ci/ --color=yes -e 'import RegistryCI; RegistryCI.test(registry_deps = ["https://github.com/JuliaRegistries/General.git"])'
 branches:
   only:
     - master
