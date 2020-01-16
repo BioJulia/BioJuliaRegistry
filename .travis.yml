@@ -10,10 +10,8 @@ julia:
 matrix:
   allow_failures:
     - julia: nightly
-#before_script: julia --project=.ci/ -e 'using Pkg; Pkg.instantiate()'
-before_script: julia -e 'using Pkg; Pkg.add(Pkg.PackageSpec(name = "RegistryCI", rev = "dpa/automerge-registry-deps"))'
-#script: julia --project=.ci/ --color=yes -e 'import RegistryCI; RegistryCI.test(registry_deps = ["https://github.com/JuliaRegistries/General.git"])'
-script: julia --color=yes -e 'import RegistryCI; RegistryCI.test(registry_deps = ["https://github.com/JuliaRegistries/General.git"])'
+before_script: julia --project=.ci/ -e 'using Pkg; Pkg.instantiate()'
+script: julia --project=.ci/ --color=yes -e 'import RegistryCI; RegistryCI.test(registry_deps = ["https://github.com/JuliaRegistries/General.git"])'
 branches:
   only:
     - master
