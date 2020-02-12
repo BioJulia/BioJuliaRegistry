@@ -14,3 +14,6 @@ StatsBase = "0.32"
 
 ["0.6-0"]
 DataFrames = "0.19-0.20"
+
+["0.6.2-0"]
+SpatialEcology = "0.8"
