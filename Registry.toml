@@ -5,6 +5,7 @@ description = "The BioJulia registry for Computational Biology related julia pac
 
 [packages]
 00701ae9-d1dc-5365-b64a-a3a3ebf5695e = { name = "BioAlignments", path = "B/BioAlignments" }
+19670fab-07f0-5a41-99c5-c090d774ee27 = { name = "BBI", path = "B/BBI" }
 3372ea36-2a1a-11e9-3eb7-996970b6ffbd = { name = "FormatSpecimens", path = "F/FormatSpecimens" }
 3aa97884-90e5-11e8-2134-af657ec4f203 = { name = "GenomeGraphs", path = "G/GenomeGraphs" }
 3bd8f0ae-a0f2-5238-a5af-e1b399a4940c = { name = "Microbiome", path = "M/Microbiome" }
