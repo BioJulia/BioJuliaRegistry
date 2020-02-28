@@ -1,11 +1,17 @@
 [0]
 CSV = "0.5"
-DataFrames = "0.19"
 RCall = "0.13"
 julia = "1.2.0-1"
 
 ["0-0.2"]
 Microbiome = "0.5"
 
-["0.3-0"]
+["0-0.3.0"]
+DataFrames = "0.19"
+
+["0.3.0"]
 Microbiome = "0.5.1-0.5"
+
+["0.3.1-0"]
+DataFrames = "0.19-0.20"
+Microbiome = "0.6"
