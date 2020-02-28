@@ -16,6 +16,7 @@ description = "The BioJulia registry for Computational Biology related julia pac
 70a005b8-9d8a-11e9-0d98-c909fa2e52d2 = { name = "ReadDatastores", path = "R/ReadDatastores" }
 7e6ae17a-c86d-528c-b3b9-7f778a29fe59 = { name = "BioSequences", path = "B/BioSequences" }
 899a7d2d-5c61-547b-bef9-6698a8d05446 = { name = "GenomicFeatures", path = "G/GenomicFeatures" }
+af1dc308-cb6b-11e8-32f0-31192efa90f6 = { name = "GFF3", path = "G/GFF3" }
 bed85cf4-5cc8-5ac4-9eb3-09fbf92b2ce2 = { name = "MicrobiomePlots", path = "M/MicrobiomePlots" }
 c2308a5c-f048-11e8-3e8a-31650f418d12 = { name = "FASTX", path = "F/FASTX" }
 d759349c-bcba-11e9-07c2-5b90f8f05f7c = { name = "XAM", path = "X/XAM" }
