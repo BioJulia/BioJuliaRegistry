@@ -19,6 +19,5 @@ description = "The BioJulia registry for Computational Biology related julia pac
 97aa930e-cb6b-11e8-0809-05c95cd953e2 = { name = "BigBed", path = "B/BigBed" }
 af1dc308-cb6b-11e8-32f0-31192efa90f6 = { name = "GFF3", path = "G/GFF3" }
 bed85cf4-5cc8-5ac4-9eb3-09fbf92b2ce2 = { name = "MicrobiomePlots", path = "M/MicrobiomePlots" }
-c2308a5c-f048-11e8-3e8a-31650f418d12 = { name = "FASTX", path = "F/FASTX" }
 d759349c-bcba-11e9-07c2-5b90f8f05f7c = { name = "XAM", path = "X/XAM" }
 fa5322f5-bd84-5069-834a-abf3230fb8f8 = { name = "BiobakeryUtils", path = "B/BiobakeryUtils" }
