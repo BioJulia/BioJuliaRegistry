@@ -9,7 +9,6 @@ description = "The BioJulia registry for Computational Biology related julia pac
 3372ea36-2a1a-11e9-3eb7-996970b6ffbd = { name = "FormatSpecimens", path = "F/FormatSpecimens" }
 3aa97884-90e5-11e8-2134-af657ec4f203 = { name = "GenomeGraphs", path = "G/GenomeGraphs" }
 3bd8f0ae-a0f2-5238-a5af-e1b399a4940c = { name = "Microbiome", path = "M/Microbiome" }
-3c28c6f8-a34d-59c4-9654-267d177fcfa9 = { name = "BioSymbols", path = "B/BioSymbols" }
 47718e42-2ac5-11e9-14af-e5595289c2ea = { name = "BioGenerics", path = "B/BioGenerics" }
 4ffb77ac-cb80-11e8-1b35-4b78cc642f6d = { name = "Indexes", path = "I/Indexes" }
 5fa9f68e-f4b0-11e8-18b8-fb82dd3c6483 = { name = "Pseudoseq", path = "P/Pseudoseq" }
