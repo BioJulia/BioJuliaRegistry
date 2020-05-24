@@ -4,14 +4,6 @@ repo = "https://github.com/BioJulia/BioJuliaRegistry.git"
 description = "The BioJulia registry for Computational Biology related julia packages."
 
 [packages]
-00701ae9-d1dc-5365-b64a-a3a3ebf5695e = { name = "BioAlignments", path = "B/BioAlignments" }
-19670fab-07f0-5a41-99c5-c090d774ee27 = { name = "BBI", path = "B/BBI" }
+
 3bd8f0ae-a0f2-5238-a5af-e1b399a4940c = { name = "Microbiome", path = "M/Microbiome" }
-899a7d2d-5c61-547b-bef9-6698a8d05446 = { name = "GenomicFeatures", path = "G/GenomicFeatures" }
-8e4a8c10-cb6b-11e8-08d2-83478d609d67 = { name = "BED", path = "B/BED" }
-96124ad7-5c0a-5c8f-8316-419835a3cefd = { name = "GenomicVectors", path = "G/GenomicVectors" }
-9d649c22-cb6b-11e8-1fa9-f3896fced444 = { name = "BigWig", path = "B/BigWig" }
-97aa930e-cb6b-11e8-0809-05c95cd953e2 = { name = "BigBed", path = "B/BigBed" }
-af1dc308-cb6b-11e8-32f0-31192efa90f6 = { name = "GFF3", path = "G/GFF3" }
 bed85cf4-5cc8-5ac4-9eb3-09fbf92b2ce2 = { name = "MicrobiomePlots", path = "M/MicrobiomePlots" }
-fa5322f5-bd84-5069-834a-abf3230fb8f8 = { name = "BiobakeryUtils", path = "B/BiobakeryUtils" }

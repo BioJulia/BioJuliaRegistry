@@ -1,6 +1,0 @@
-[2]
-BioGenerics = "0.1"
-BioSequences = "2"
-BioSymbols = "4"
-IntervalTrees = "1"
-julia = ["0.7", "1"]
