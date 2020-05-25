@@ -1,7 +1,0 @@
-authors = ["kescobo <kevbonham@gmail.com>"]
-desc = "Plotting functions for the microbiome"
-keywords = ["microbiology", "microbiome", "biology"]
-license = "MIT"
-name = "MicrobiomePlots"
-repo = "https://github.com/kescobo/MicrobiomePlots.jl.git"
-uuid = "bed85cf4-5cc8-5ac4-9eb3-09fbf92b2ce2"

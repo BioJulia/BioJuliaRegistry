@@ -5,4 +5,4 @@ description = "The BioJulia registry for Computational Biology related julia pac
 
 [packages]
 
-bed85cf4-5cc8-5ac4-9eb3-09fbf92b2ce2 = { name = "MicrobiomePlots", path = "M/MicrobiomePlots" }
+
